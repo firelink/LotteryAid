@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello Baby</string>
+    <string name="app_name">LotteryAid</string>
+    <string name="shake_to_roll_5_random_daily_numbers_or_push_the_button">Shake to roll 5 random daily numbers or push the button</string>
+    <string name="shake_to_roll_5_random_big_4_numbers_or_push_the_button">Shake to roll 5 random big 4 numbers or push the button</string>
+    <string name="shake_to_roll_5_random_cash_5_numbers_or_push_the_button">Shake to roll 5 random cash 5 numbers or push the button</string>
+    <string name="shake_to_roll_5_random_powerball_numbers_or_push_the_button">Shake to roll 5 random powerball numbers or push the button</string>
+    <string name="roll">Shake or Push</string>
+    <string name="tap_a_number_to_save_it_for_later">Tap a number to save it for later</string>
+    <string name="daily_number">Daily Number</string>
+    <string name="big_4">Big 4</string>
+    <string name="cash_5">Cash 5</string>
+    <string name="power_ball">Power Ball</string>
+    <string name="view_your_picked_numbers">View Your Picked Numbers</string>
+    <string name="show_daily">Show Daily</string>
+    <string name="show_big_4">Show Big 4</string>
+    <string name="show_cash_5">Show Cash 5</string>
+    <string name="show_powerball">Show Powerball</string>
+    <string name="todo">TODO</string>
+
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+	<style name="theme" parent="@android:style/TextAppearance"> 
+		<item name="android:textColor">#ffffffff</item> 
+	</style>
+</resources>
