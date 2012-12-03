@@ -44,8 +44,8 @@ public class WebApp extends Activity
 		
 		int LOTTO_INDEX = Integer.parseInt(prefs.getString("state_chosen", "0"));
 		
-		final String mimeType = "text/html";
-        final String encoding = "utf-8";
+		//final String mimeType = "text/html";
+        //final String encoding = "utf-8";
         //final String url = "http://google.com";
         final String url = getResources().obtainTypedArray(R.array.stateLottoWebsites).getString(LOTTO_INDEX);
         
