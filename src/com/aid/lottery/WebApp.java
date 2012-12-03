@@ -10,6 +10,7 @@ import android.widget.ArrayAdapter;
 import android.widget.Spinner;
 import android.webkit.*;
 import android.widget.*;
+import android.view.*;
 
 public class WebApp extends Activity 
 {
@@ -71,6 +72,17 @@ public class WebApp extends Activity
 		spinner.setAdapter(new ArrayAdapter<String>(this, android.R.layout.simple_dropdown_item_1line, theArray));
 		
 		Button webButton = (Button)findViewById(R.id.web_okButton);
+		
+		webButton.setOnClickListener(new Button.OnClickListener()
+		{
+
+				public void onClick(View p1)
+				{
+					// TODO: Implement this method
+				}
+
+			
+		});
 	}
 	
 	
