@@ -24,7 +24,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-@SuppressLint("FloatMath")
+
 public class InitGames extends Fragment 
 {
 	//Private fields
