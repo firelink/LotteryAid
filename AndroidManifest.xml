@@ -33,6 +33,7 @@
 		<activity android:name="TabMenuMore"></activity>
 		<activity android:name="TabMenu"></activity>
 		<activity android:name="WebApp"></activity>
+		<activity android:name="TestApp"></activity>
     </application>
 
 </manifest>

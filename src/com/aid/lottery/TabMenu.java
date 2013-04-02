@@ -255,7 +255,7 @@ public class TabMenu extends FragmentActivity implements TabHost.OnTabChangeList
 			}
 			case R.id.main_menu_web:
 			{
-				Intent myIntent = new Intent(TabMenu.this, WebApp.class);
+				Intent myIntent = new Intent(TabMenu.this, TestApp.class);
 				startActivity(myIntent);
 				break;
 			}
