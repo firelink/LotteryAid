@@ -263,7 +263,7 @@
         <item name="oh">0</item>
         <item name="ok">0</item>
         <item name="or">0</item>
-        <item name="pa">6</item>
+        <item name="pa">4</item>
         <item name="ri">0</item>
         <item name="sc">0</item>
         <item name="sd">0</item>
@@ -1128,7 +1128,7 @@
         <item name="oh">OH</item>
         <item name="ok">OK</item>
         <item name="or">OR</item>
-        <item name="pa">6</item>
+        <item name="pa">5x1</item>
         <item name="ri">RI</item>
         <item name="sc">SC</item>
         <item name="sd">SD</item>
@@ -1272,7 +1272,7 @@
         <item name="oh">OH</item>
         <item name="ok">OK</item>
         <item name="or">OR</item>
-        <item name="pa">Powerball</item>
+        <item name="pa">NULL</item>
         <item name="ri">RI</item>
         <item name="sc">SC</item>
         <item name="sd">SD</item>
@@ -1320,7 +1320,7 @@
         <item name="oh">OH</item>
         <item name="ok">OK</item>
         <item name="or">OR</item>
-        <item name="pa">#-by-#</item>
+        <item name="pa">NULL</item>
         <item name="ri">RI</item>
         <item name="sc">SC</item>
         <item name="sd">SD</item>
@@ -1368,7 +1368,7 @@
         <item name="oh">OH</item>
         <item name="ok">OK</item>
         <item name="or">OR</item>
-        <item name="pa">6</item>
+        <item name="pa">NULL</item>
         <item name="ri">RI</item>
         <item name="sc">SC</item>
         <item name="sd">SD</item>
@@ -1416,7 +1416,7 @@
         <item name="oh">OH</item>
         <item name="ok">OK</item>
         <item name="or">OR</item>
-        <item name="pa">1</item>
+        <item name="pa">NULL</item>
         <item name="ri">RI</item>
         <item name="sc">SC</item>
         <item name="sd">SD</item>
@@ -1464,7 +1464,7 @@
         <item name="oh">OH</item>
         <item name="ok">OK</item>
         <item name="or">OR</item>
-        <item name="pa">59x35</item>
+        <item name="pa">NULL</item>
         <item name="ri">RI</item>
         <item name="sc">SC</item>
         <item name="sd">SD</item>
@@ -1512,7 +1512,7 @@
         <item name="oh">OH</item>
         <item name="ok">OK</item>
         <item name="or">OR</item>
-        <item name="pa">Powerball</item>
+        <item name="pa">NULL</item>
         <item name="ri">RI</item>
         <item name="sc">SC</item>
         <item name="sd">SD</item>
@@ -1560,7 +1560,7 @@
         <item name="oh">OH</item>
         <item name="ok">OK</item>
         <item name="or">OR</item>
-        <item name="pa">#-by-#</item>
+        <item name="pa">NULL</item>
         <item name="ri">RI</item>
         <item name="sc">SC</item>
         <item name="sd">SD</item>
@@ -1608,7 +1608,7 @@
         <item name="oh">OH</item>
         <item name="ok">OK</item>
         <item name="or">OR</item>
-        <item name="pa">6</item>
+        <item name="pa">NULL</item>
         <item name="ri">RI</item>
         <item name="sc">SC</item>
         <item name="sd">SD</item>
@@ -1656,7 +1656,7 @@
         <item name="oh">OH</item>
         <item name="ok">OK</item>
         <item name="or">OR</item>
-        <item name="pa">1</item>
+        <item name="pa">NULL</item>
         <item name="ri">RI</item>
         <item name="sc">SC</item>
         <item name="sd">SD</item>
@@ -1704,7 +1704,7 @@
         <item name="oh">OH</item>
         <item name="ok">OK</item>
         <item name="or">OR</item>
-        <item name="pa">59x35</item>
+        <item name="pa">NULL</item>
         <item name="ri">RI</item>
         <item name="sc">SC</item>
         <item name="sd">SD</item>
@@ -1752,7 +1752,7 @@
         <item name="oh">OH</item>
         <item name="ok">OK</item>
         <item name="or">OR</item>
-        <item name="pa">Powerball</item>
+        <item name="pa">NULL</item>
         <item name="ri">RI</item>
         <item name="sc">SC</item>
         <item name="sd">SD</item>
@@ -1800,7 +1800,7 @@
         <item name="oh">OH</item>
         <item name="ok">OK</item>
         <item name="or">OR</item>
-        <item name="pa">#-by-#</item>
+        <item name="pa">NULL</item>
         <item name="ri">RI</item>
         <item name="sc">SC</item>
         <item name="sd">SD</item>
@@ -1848,7 +1848,7 @@
         <item name="oh">OH</item>
         <item name="ok">OK</item>
         <item name="or">OR</item>
-        <item name="pa">6</item>
+        <item name="pa">NULL</item>
         <item name="ri">RI</item>
         <item name="sc">SC</item>
         <item name="sd">SD</item>
@@ -1896,7 +1896,7 @@
         <item name="oh">OH</item>
         <item name="ok">OK</item>
         <item name="or">OR</item>
-        <item name="pa">1</item>
+        <item name="pa">NULL</item>
         <item name="ri">RI</item>
         <item name="sc">SC</item>
         <item name="sd">SD</item>
@@ -1944,7 +1944,7 @@
         <item name="oh">OH</item>
         <item name="ok">OK</item>
         <item name="or">OR</item>
-        <item name="pa">59x35</item>
+        <item name="pa">NULL</item>
         <item name="ri">RI</item>
         <item name="sc">SC</item>
         <item name="sd">SD</item>
@@ -1992,7 +1992,7 @@
         <item name="oh">OH</item>
         <item name="ok">OK</item>
         <item name="or">OR</item>
-        <item name="pa">Powerball</item>
+        <item name="pa">NULL</item>
         <item name="ri">RI</item>
         <item name="sc">SC</item>
         <item name="sd">SD</item>
@@ -2040,7 +2040,7 @@
         <item name="oh">OH</item>
         <item name="ok">OK</item>
         <item name="or">OR</item>
-        <item name="pa">#-by-#</item>
+        <item name="pa">NULL</item>
         <item name="ri">RI</item>
         <item name="sc">SC</item>
         <item name="sd">SD</item>
@@ -2136,7 +2136,7 @@
         <item name="oh">OH</item>
         <item name="ok">OK</item>
         <item name="or">OR</item>
-        <item name="pa">1</item>
+        <item name="pa">NULL</item>
         <item name="ri">RI</item>
         <item name="sc">SC</item>
         <item name="sd">SD</item>
@@ -2184,7 +2184,7 @@
         <item name="oh">OH</item>
         <item name="ok">OK</item>
         <item name="or">OR</item>
-        <item name="pa">59x35</item>
+        <item name="pa">NULL</item>
         <item name="ri">RI</item>
         <item name="sc">SC</item>
         <item name="sd">SD</item>
