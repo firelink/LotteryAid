@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+	android:gravity="center"
+	android:layout_width="fill_parent" >
+	<group android:id="@+id/main_menu_group1">
+		<item 
+			android:id="@+id/main_menu_picks"
+			android:title="View Current Picks" >
+		</item>
+		<item 
+			android:id="@+id/main_menu_web"
+			android:title="View Lottery Results" >
+		</item>
+		<item 
+			android:id="@+id/main_menu_settings"
+			android:title="Settings" >
+		</item>
+		<item 
+			android:id="@+id/main_menu_help"
+			android:title="Help" >
+		</item>
+	</group>
+	
+</menu>
+<!-- From: file:/D:/Development/Android/Lottery%20Aid/app/src/main/res/menu/main_menu.xml -->

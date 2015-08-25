@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?> 
+	<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+		android:id="@+id/spinner_text"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:textSize="25sp"
+		android:textColor="#f7d"
+		android:gravity="center"
+		android:layout_marginBottom="5dp"
+		android:layout_marginTop="5dp"
+	/>
+<!-- From: file:/D:/Development/Android/Lottery%20Aid/app/src/main/res/layout-large-port/custom_spinner_row.xml -->

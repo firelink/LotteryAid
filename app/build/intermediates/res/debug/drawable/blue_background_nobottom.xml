@@ -1,0 +1,17 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+	<item>
+		<shape>
+			<gradient
+				android:startColor="#8df"
+				android:centerColor="#5af"
+				android:endColor="#00222222"
+				android:centerX=".5"
+				android:centerY="-0.4"
+				android:gradientRadius="52500%"
+				android:type="radial"
+			/>
+		</shape>
+	</item>
+	
+</layer-list>
+<!-- From: file:/D:/Development/Android/Lottery%20Aid/app/src/main/res/drawable/blue_background_nobottom.xml -->

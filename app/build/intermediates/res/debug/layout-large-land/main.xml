@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+	android:gravity="center"
+	>
+		
+	<Button
+		android:id="@+id/menu_DailyButton"
+		android:layout_width="fill_parent"
+		android:layout_height="0dp"
+		android:layout_weight=".20"
+		android:layout_marginBottom="5dp"
+		android:textSize="20sp"
+		android:text="@string/daily_number" 
+	/>
+	
+	<Button
+		android:id="@+id/menu_Big4Button"
+		android:layout_width="fill_parent"
+		android:layout_height="0dp"
+		android:layout_weight=".20"
+		android:layout_marginBottom="5dp"
+		android:textSize="20sp"
+		android:text="@string/big_4" 
+	/>
+	
+	<Button
+		android:id="@+id/menu_Cash5Button"
+		android:layout_width="fill_parent"
+		android:layout_height="0dp"
+		android:layout_weight=".20"
+		android:layout_marginBottom="5dp"
+		android:textSize="20sp"
+		android:text="@string/cash_5" 
+	/>
+	
+	<Button
+		android:id="@+id/menu_PowerButton"
+		android:layout_width="fill_parent"
+		android:layout_height="0dp"
+		android:layout_weight=".20"
+		android:layout_marginBottom="5dp"
+		android:textSize="20sp"
+		android:text="@string/power_ball" 
+	/>
+	
+	<Button
+		android:id="@+id/menu_Picks"
+		android:layout_width="fill_parent"
+		android:layout_height="0dp"
+		android:layout_weight=".10"
+		android:layout_marginTop="15dp"
+		android:textSize="15sp"
+		android:text="@string/view_your_picked_numbers" 
+	/>
+		
+</LinearLayout>
+<!-- From: file:/D:/Development/Android/Lottery%20Aid/app/src/main/res/layout-large-land/main.xml -->

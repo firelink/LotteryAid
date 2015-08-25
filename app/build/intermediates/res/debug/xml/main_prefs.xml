@@ -1,0 +1,156 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+	android:key="main_preferencescreen" 
+>
+
+	<CheckBoxPreference
+		android:key="shake_enable"
+		android:title="Enable Shake to roll"
+		android:summary="Enable or disable shake to roll"
+		android:defaultValue="true"
+	/>
+	<ListPreference
+		android:key="picks_background"
+		android:title="Picks Style"
+		android:summary="Choose color style for the Picks page"
+		android:entries="@array/numberStyle"
+		android:entryValues="@array/numberStyleValues"
+		android:defaultValue="5"
+		/>
+	<ListPreference
+	    android:key="state_chosen"
+	    android:title="Your State"
+	    android:summary="Choose the state you play the lottery in"
+	    android:entries="@array/stateLottoAddresses"
+	    android:entryValues="@array/stateLottoAddressesValues"
+	/>	
+	    
+	<PreferenceCategory
+		android:title="Game 1"
+		android:key="daily_number_cat" >
+		
+		<ListPreference
+			android:key="daily_background"
+			android:title="Daily Style"
+			android:summary="Choose color style for Daily page"
+			android:entries="@array/numberStyle"
+			android:entryValues="@array/numberStyleValues"
+			android:defaultValue="2"
+
+		/>
+
+	</PreferenceCategory>
+	
+	<PreferenceCategory
+		android:title="Game 2"
+		android:key="big4_number_cat" >
+
+		<ListPreference
+			android:key="big4_background"
+			android:title="Big 4 Style"
+			android:summary="Choose color style for Big 4 page"
+			android:entries="@array/numberStyle"
+			android:entryValues="@array/numberStyleValues"
+			android:defaultValue="1"
+
+		/>
+
+	</PreferenceCategory>
+	
+	<PreferenceCategory
+		android:title="Game 3"
+		android:key="cash5_number_cat" >
+
+		<ListPreference
+			android:key="cash5_background"
+			android:title="Cash 5 Style"
+			android:summary="Choose color style for Cash 5 page"
+			android:entries="@array/numberStyle"
+			android:entryValues="@array/numberStyleValues"
+			android:defaultValue="0"
+
+		/>
+
+	</PreferenceCategory>
+	
+	<PreferenceCategory
+		android:title="Game 4"
+		android:key="powerball_number_cat" >
+
+		<ListPreference
+			android:key="power_background"
+			android:title="Powerball Style"
+			android:summary="Choose color style for Powerball page"
+			android:entries="@array/numberStyle"
+			android:entryValues="@array/numberStyleValues"
+			android:defaultValue="6"
+
+		/>
+
+	</PreferenceCategory>
+	
+	<PreferenceCategory
+		android:title="Game 5"
+		android:key="game_5_cat" >
+
+		<ListPreference
+			android:key="game5_background"
+			android:title="Game 5 Style"
+			android:summary="Choose color style for Game 5 page"
+			android:entries="@array/numberStyle"
+			android:entryValues="@array/numberStyleValues"
+			android:defaultValue="4"
+
+		/>
+
+	</PreferenceCategory>
+	
+	<PreferenceCategory
+		android:title="Game 6"
+		android:key="game_6_cat" >
+
+		<ListPreference
+			android:key="game6_background"
+			android:title="Game 6 Style"
+			android:summary="Choose color style for Game 6 page"
+			android:entries="@array/numberStyle"
+			android:entryValues="@array/numberStyleValues"
+			android:defaultValue="7"
+
+		/>
+
+	</PreferenceCategory>
+	
+	<PreferenceCategory
+		android:title="Game 7"
+		android:key="game_7_cat" >
+
+		<ListPreference
+			android:key="game7_background"
+			android:title="Game 7 Style"
+			android:summary="Choose color style for Game 7 page"
+			android:entries="@array/numberStyle"
+			android:entryValues="@array/numberStyleValues"
+			android:defaultValue="8"
+
+		/>
+
+	</PreferenceCategory>
+	
+	<PreferenceCategory
+		android:title="Game 8"
+		android:key="game_8_cat" >
+
+		<ListPreference
+			android:key="game8_background"
+			android:title="Game 8 Style"
+			android:summary="Choose color style for Game 8 page"
+			android:entries="@array/numberStyle"
+			android:entryValues="@array/numberStyleValues"
+			android:defaultValue="9"
+
+		/>
+
+	</PreferenceCategory>
+
+</PreferenceScreen>
+<!-- From: file:/D:/Development/Android/Lottery%20Aid/app/src/main/res/xml/main_prefs.xml -->

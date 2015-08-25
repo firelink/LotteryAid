@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/game_roll"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".1"
+        android:layout_marginTop="10dp"
+        android:text="@string/roll"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/game_Title2"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".1"
+        android:gravity="center"
+        android:text="@string/tap_a_number_to_save_it_for_later"
+        android:textColor="#ffffff"
+        android:textSize="20sp" />
+
+    <ListView
+        android:id="@+id/game_List"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".8"
+        android:gravity="center"
+        android:listSelector="#00000000" />
+
+</LinearLayout><!-- From: file:/D:/Development/Android/Lottery%20Aid/app/src/main/res/layout-xlarge-land/game.xml -->

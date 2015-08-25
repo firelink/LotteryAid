@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<shape xmlns:android="http://schemas.android.com/apk/res/android" 
+	android:shape="oval"> 
+	<corners 
+		android:radius="10dip"/> 
+	<stroke 
+		android:color="#fff" 
+		android:width="2dip"/> 
+	<solid 
+		android:color="#fff"/> 
+</shape>
+<!-- From: file:/D:/Development/Android/Lottery%20Aid/app/src/main/res/drawable/num_back.xml -->

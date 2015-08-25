@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal"
+	android:gravity="center"
+	android:baselineAligned="false">
+	
+	<LinearLayout
+		android:layout_width="0dp"
+		android:layout_weight=".50"
+		android:layout_height="fill_parent"
+		android:orientation="vertical"
+		android:gravity="center"
+	>
+
+		<TextView
+			android:id="@+id/daily_Title2"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:gravity="center"
+			android:textSize="15sp"
+			android:textColor="#ffffff"
+			android:text="@string/tap_a_number_to_save_it_for_later"
+		/>
+
+		<ListView
+			android:id="@+id/daily_DailyList"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			android:gravity="center"
+			android:layout_marginTop="5dp"
+		/>
+	</LinearLayout>
+	
+	<RelativeLayout
+		android:layout_width="0dp"
+		android:layout_weight=".50"
+		android:layout_height="wrap_content"
+		android:orientation="vertical"
+		android:gravity="center"
+	>
+
+		<TextView
+			android:id="@+id/daily_Title"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:gravity="center"
+			android:layout_alignParentTop="true"
+			android:textSize="15sp"
+			android:textColor="#ffffff"
+			android:text="@string/shake_to_roll_5_random_daily_numbers_or_push_the_button"
+		/>
+
+		<Button
+			android:id="@+id/daily_roll"
+			android:layout_width="fill_parent"
+			android:layout_height="50dp"
+			android:layout_alignParentBottom="true"
+			android:textSize="15dp"
+			android:text="@string/roll" 
+		/>
+	</RelativeLayout>
+	
+</LinearLayout>
+<!-- From: file:/D:/Development/Android/Lottery%20Aid/app/src/main/res/layout-normal-land/daily.xml -->

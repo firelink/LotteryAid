@@ -1,0 +1,39 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+	<item>
+		<shape>
+			<gradient
+				android:startColor="#af8"
+				android:centerColor="#7c5"
+				android:endColor="#00222222"
+				android:centerX="0"
+				android:centerY=".5"
+				android:gradientRadius="5000%"
+				android:type="radial"
+			/>
+		</shape>
+	</item>
+	
+	<item>
+		<shape>
+			<gradient
+				android:startColor="#af8"
+				android:centerColor="#7c5"
+				android:endColor="#00222222"
+				android:centerX="1"
+				android:centerY=".5"
+				android:gradientRadius="5000%"
+				android:type="radial"
+			/>
+		</shape>
+	</item>
+	
+	<item>
+		<shape android:shape="line">
+		    <stroke
+			       android:width="2dp"
+		           android:color="#af8"
+		    />
+		</shape>
+	</item>
+</layer-list>
+<!-- From: file:/D:/Development/Android/Lottery%20Aid/app/src/main/res/drawable/green_list_background_selected.xml -->

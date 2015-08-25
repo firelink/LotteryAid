@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transition xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/gray_list_background_selected" />
+        <item android:drawable="@drawable/gray_background_all" />
+</transition><!-- From: file:/D:/Development/Android/Lottery%20Aid/app/src/main/res/drawable/gray_list_transition.xml -->
